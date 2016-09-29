@@ -18,17 +18,17 @@ html {
 }
 
 body {
-	background: #000000;
+	background: #000000; #062F4F; #813772; #B82601
   font: 18px/1.4 $helvetica;
-  color: #0000ff;
+  color: #006600;
 }
 
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
-}
+  width: center;
+}	
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ff0000;
+    color: #062F4F;
   }
 }
 
@@ -106,7 +106,7 @@ strong, b {
   font-weight: bold;
 }
 
-img {
+img { 
   max-width: 100%;
 }
 
