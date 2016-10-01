@@ -18,7 +18,19 @@ html {
 }
 
 body {  background-image: url(https://s-media-cache-ak0.pinimg.com/564x/9d/80/92/9d809233e5ec809f538df066fb991807.jpg);
-	background-color: #000000;#062F4F;#813772;#B82601
+	background-color: { 
+       background-color : #000000; 
+} 
+
+div {  background-color : #062F4F; 
+} 
+
+div {  background-color : #813772; 
+} 
+
+div { background-color : #B82601; 
+} 
+	
   font: 18px/1.4 $helvetica;
   color: #006600;
 }
