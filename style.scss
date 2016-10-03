@@ -50,23 +50,27 @@ h1 {
 
   font-size: 30px;
   a {
-    color: #f44242;
+    color: #f44242; 
+    text-align: center;
   }
 }
 
 h2 {
   font-size: 24px; 
-  color: $blue
+  color: $blue 
+  text-align: center;
 }
 
 h3 {
   font-size: 20px;
-  color: $blue
+  color: $blue 
+  text-align: center;	  
 }
 
 h4 {
   font-size: 18px;
-  color: $blue;
+  color: $blue; 
+  text-align: center;
 }
 
 p {
