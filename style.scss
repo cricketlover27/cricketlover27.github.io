@@ -51,26 +51,30 @@ h1 {
   font-size: 30px;
   a {
     color: #f44242; 
-    text-align: center;
+    text-align: center; 
+    vertical-align: middle;
   }
 }
 
 h2 {
   font-size: 24px; 
   color: $blue 
-  text-align: center;
+  text-align: center; 
+  vertical-align: middle;
 }
 
 h3 {
   font-size: 20px;
   color: $blue 
-  text-align: center;	  
+  text-align: center;	
+  vertical-align: middle;	
 }
 
 h4 {
   font-size: 18px;
   color: $blue; 
-  text-align: center;
+  text-align: center 
+  vertical-align: middle;
 }
 
 p {
