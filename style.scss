@@ -25,19 +25,20 @@ body {
     background-color: rgba(100, 255, 100, 0.4);
 }
 
-.container {
+.container { 
+  position: center;
   margin: 0px 100px 0px 100px;
   max-width: 800px;
   padding: 0 10px; 
-  background: rgba(100, 255, 100, 0.4);
-  position: center; 
+  background: rgba(100, 255, 100, 0.4); 
 }	
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $blue;
   font-weight: bold; 
-  text-align: center;
+  text-align: center; 
+  position: center;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -53,25 +54,21 @@ h1 {
   font-size: 30px;
   a {
     color: #f44242; 
-    text-align: center;
   }
 }
 
 h2 {
   font-size: 24px; 
   color: $blue; 
-  text-align: center;
 }
 
 h3 {
   font-size: 20px;
-  color: $blue;
-  text-align: center; 
+  color: $blue; 
 }
 
 h4 {
   font-size: 18px; 
-  text-align: center;
 }
 
 p {
