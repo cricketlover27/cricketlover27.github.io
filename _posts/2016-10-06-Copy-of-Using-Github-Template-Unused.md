@@ -1,5 +1,5 @@
 ---
-title: Copy of Using Github Template Unused
+title: Yet another BBC Fuze Lesson
 layout: post
 author: tom.whittington
 permalink: /copy-of-using-github-template-unused/
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes</td>
+    <td>Yes. We completed the exercises we wanted to just in time. </td>
   </tr>
 </table>
 
