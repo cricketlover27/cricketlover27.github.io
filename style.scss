@@ -22,7 +22,7 @@ body {
     background-repeat: repeat;
     background-attachment: fixed;
     background-position: 100px,100px; 
-    background-color: rgba(0, 255, 0, 0.3);
+    background-color: rgba(100, 255, 100, 0.4);
 }
 
 .container {
@@ -30,7 +30,7 @@ body {
   max-width: 800px;
   padding: 0 10px; 
   background: rgba(100, 255, 100, 0.4);
-  position: center; 
+  align: center; 
 }	
 
 h1, h2, h3, h4, h5, h6 {
