@@ -1,5 +1,5 @@
 ---
-title: 2nd Lesson of BBC Fuze
+title: Another Lesson of BBC Fuze exercises
 layout: post
 author: tom.whittington
 permalink: /copy-of-using-github-template---tom-whittington/
