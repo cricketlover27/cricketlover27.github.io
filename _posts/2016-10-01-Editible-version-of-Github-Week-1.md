@@ -1,5 +1,5 @@
 ---
-title: Editible version of Github Week 1
+title: Improving Github Page
 layout: post
 author: tom.whittington
 permalink: /editable-version-of-github-week-1/
