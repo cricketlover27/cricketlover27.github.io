@@ -294,7 +294,9 @@ footer {
 
 table, th, td {
    border: 1px solid white; 
-        background-color: rgba(100, 100, 100, 0.5); 
+   background-color: rgba(100, 100, 100, 0.5); 
+   color: orange;
+	
 }
 	
 td { 
@@ -303,8 +305,6 @@ td {
 }
    
 th { 
-   color: white;
-   background: #233237;
    height: 50px;
    vertical-align: center;
 }
