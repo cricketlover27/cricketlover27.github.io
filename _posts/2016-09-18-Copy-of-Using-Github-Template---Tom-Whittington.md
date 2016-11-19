@@ -1,5 +1,5 @@
 ---
-title: Another Lesson of BBC Fuze exercises
+title: Copy of Using Github Template - Tom Whittington
 layout: post
 author: tom.whittington
 permalink: /copy-of-using-github-template---tom-whittington/
@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To try to complete as many Fuze exercises as possible, at least 2 </td>
+    <td>To try to complete as many Fuze exercises as possible, at least 2.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
