@@ -56,12 +56,12 @@ h1 {
 
 h2 {
   font-size: 24px; 
-  color: $blue; 
+  color: $red; 
 }
 
 h3 {
   font-size: 20px;
-  color: $blue; 
+  color: $red; 
 }
 
 h4 {
@@ -294,7 +294,7 @@ footer {
 
 table, th, td {
    border: 1px solid white; 
-   background-color: rgba(0, 100, 200, 0.7); 
+   background-color: rgba(100, 100, 100, 0.7); 
    color: orange;
 	
 }
