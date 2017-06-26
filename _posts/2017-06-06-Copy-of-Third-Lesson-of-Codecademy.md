@@ -1,5 +1,5 @@
 ---
-title: Copy of Third Lesson of Codecademy
+title: Fourth Lesson of Codecademy
 layout: post
 author: tom.whittington
 permalink: /copy-of-third-lesson-of-codecademy/
